@@ -1,13 +1,15 @@
 {
   "name": "My YTLite",
+  "subtitle": "Custom YTLite builds",
   "apps": [
     {
       "name": "YTLite",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "scrunglh",
       "subtitle": "My custom YTLite build",
-      "localizedDescription": "YouTube with custom tweaks and enhancements.",
+      "localizedDescription": "YouTube with lots of tweaks and enhancements by scrunglh.",
       "iconURL": "https://raw.githubusercontent.com/scrunglh/YTLite/main/icon.png",
+      "category": "social",
       "versions": [
         {
           "version": "21.26.4",
