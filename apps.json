@@ -1,0 +1,20 @@
+{
+  "name": "YTLite",
+  "apps": [
+    {
+      "name": "YTLite",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "You",
+      "subtitle": "YTLite Build",
+      "iconURL": "https://raw.githubusercontent.com/YOURNAME/YOURREPO/main/icon.png",
+      "versions": [
+        {
+          "version": "21.26.4",
+          "date": "2026-07-01",
+          "downloadURL": "https://github.com/scrunglh/YTLite/releases/download/ytp-4/YouTubePlus_5.2.1.ipa",
+          "size": 80000000
+        }
+      ]
+    }
+  ]
+}
