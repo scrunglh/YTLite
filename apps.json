@@ -6,6 +6,7 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "scrunglh",
       "subtitle": "My custom YTLite build",
+      "localizedDescription": "YouTube with custom tweaks and enhancements.",
       "iconURL": "https://raw.githubusercontent.com/scrunglh/YTLite/main/icon.png",
       "versions": [
         {
